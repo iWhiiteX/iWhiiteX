@@ -3,5 +3,6 @@ body{
 }
 h1{
     font-family: 'Times New Roman', Times, serif;
+    /*necesito que la etiqueta h1 tenga una linea de color azul*/
     border-bottom: 2px solid blue;
 }
